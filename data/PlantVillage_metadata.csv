@@ -1,0 +1,6 @@
+filename,crop,disease,label
+blight_leaf.jpg,Tomato,Tomato Late Blight,Late Blight
+healthy_leaf.jpg,Tomato,Healthy,Healthy
+early_blight.jpg,Tomato,Tomato Early Blight,Early Blight
+bact_spot.jpg,Tomato,Tomato Bacteria,Bacteria Spot
+spot_leaf.jpg,Tomato,Tomato Leaf Spot,Leaf Spot

@@ -1,0 +1,6 @@
+filename,crop,disease,label
+blight_leaf.jpg,Potato,Potato Late Blight,Late Blight
+healthy_leaf.jpg,Corn,Healthy,Healthy
+spot_leaf.jpg,Tomato,Tomato Leaf Spot,Leaf Spot
+early_blight.jpg,Tomato,Tomato Early Blight,Early Blight
+bact_spot.jpg,Tomato,Tomato Bacteria,Bacteria Spot
