@@ -35,11 +35,7 @@ leaf-disease-detection-ai/
 │   └── static/styles.css  
 ├── requirements.txt  
 └── screenshots/  
-    ├── ui_demo.png  
-    ├── confusion_matrix.png  
-    ├── accuracy_loss_curve.png  
-    ├── prediction_vs_actual_chart.png  
-    └── grad_cam_example.png  
+
 ```
 
 ## How to Run Locally
