@@ -4,10 +4,9 @@ A deep learning-based project for detecting diseases in crop leaves using image 
 
 ## Project Summary
 
-- Detects multiple leaf diseases across various crops (e.g., tomato, potato, maize, grape, etc.).
+- Detects multiple leaf diseases across various crops.
 - Built using Convolutional Neural Networks with transfer learning (e.g., MobileNetV2).
 - Provides Grad-CAM heatmaps to visualize model attention.
-- Deployed as a Flask web application for user-friendly interaction.
 - Optional: Deployable on Microsoft Azure using Azure Web App or Azure Machine Learning.
 
 ## Folder Structure
@@ -42,10 +41,6 @@ leaf-disease-detection-ai/
 
 1. Clone the Repository:
 
-```bash
-git clone https://github.com/yourusername/leaf-disease-detection-ai.git
-cd leaf-disease-detection-ai
-```
 
 2. Create Virtual Environment (optional but recommended):
 
@@ -69,20 +64,6 @@ cd app
 python app.py
 ```
 
-5. Open in browser:
-
-```
-http://localhost:5000
-```
-
-## Testing the Model
-
-- Use the images from data/sample_images/ to upload via the web interface.
-- Alternatively, run the predict.py script for CLI-based testing:
-
-```bash
-python src/predict.py --image data/sample_images/potato_leaf_1.jpg
-```
 
 ## Deployment
 
